@@ -1,13 +1,11 @@
 import React from 'react'
 import styled from 'styled-components'
-import Fade from 'react-reveal/Fade';
- 
+import { Fade } from "react-awesome-reveal"; 
 
 function Section({ title, discription, leftBtnText, rightBtnText, backgroundImg }) {
-    // console.log(props);
   return (
     <Wrap bgImage= { backgroundImg }>
-        <Fade bottom>
+        <Fade cascade>
             <ItemText>
                 <h1>{ title }</h1>
                 <p>{ discription }</p>
