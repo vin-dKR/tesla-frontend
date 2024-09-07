@@ -1,71 +1,73 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center" style="font-weight: bold;">Tesla Frontend with Full Responsiveness</h1>
 
-## Available Scripts
+<p align="center">
+<a href="#tech">Technologies</a>
+<a href="#started">Getting Started</a>
+<a href="#colab">Collaborators</a>
+ 
+</p>
 
-In the project directory, you can run:
 
-### `npm start`
+<p align="center">A minimalistic, aesthetic Tesla frontend with a clean, modern design. Fully responsive for all devices, it emphasizes simplicity and elegance, ensuring a smooth user experience.</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<p align="center">
+<a href="https://tesla-frontend-omega.vercel.app/">📱 Visit this Project</a>
+</p>
 
-### `npm test`
+<h2 id="layout">🎨 Layout</h2>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![11](https://github.com/user-attachments/assets/784e66df-db91-4193-9c6e-61c90b404bda)
+![12](https://github.com/user-attachments/assets/90dd7d80-6ea3-428b-b67c-551f0eb17897)
+![13](https://github.com/user-attachments/assets/f5860698-2b57-4434-aa3c-9e1a3e756069)
+![14](https://github.com/user-attachments/assets/6121f069-a962-4de9-85b3-763e76beece6)
+![15](https://github.com/user-attachments/assets/838010f4-f409-4c84-be59-07b78327bc26)
+![16](https://github.com/user-attachments/assets/8360c476-1ca3-4620-9b4b-0ab42bd905e7)
+![17](https://github.com/user-attachments/assets/6fefda86-ca16-4395-880c-7b7a5be20d10)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h2 id="technologies">💻 Technologies</h2>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- react
+- styled components
+- react-awesome-reveal
+- mui-material
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h2 id="started">🚀 Getting started</h2>
 
-### `npm run eject`
+Let's go................
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<h3>Cloning</h3>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Clone the project
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+git clone https://github.com/vin-dKR/tesla-frontend.git
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<h3>Starting</h3>
 
-## Learn More
+How to start your project 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+cd tesla-frontend
+npm npm install --legacy-peer-deps
+npm run start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h2 id="colab">🤝 Collaborators</h2>
+<table>
+<tr>
 
-### Code Splitting
+<td align="center">
+<a href="https://github.com/vin-dKR">
+<img src="https://avatars.githubusercontent.com/u/109779300?s=400&u=642c920a7387f8e40779dba0ec4c876fa44c3637&v=4" width="100px;" alt="Vinod KR Profile Picture"/><br>
+<sub>
+<b>Vinod KR</b>
+</sub>
+</a>
+</td>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# tesla-frontend
+</tr>
+</table>
